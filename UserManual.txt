@@ -1,0 +1,15 @@
+PRESS SPACE TO START THE GAME:
+
+This is a little user manual with the rules of the Game and control
+
+Objective of the game is to take down all the alien spaceship hovering in space.
+
+-You can move the spaceship around with left,right,up,down arrow key.
+-Use that to collide with the alien ships.
+-After you destroy all the ship, it will be gameover and you will get to see your scores in scorelist.txt
+-Try to avoid asteroid as they will decrease your hp at very fast rate.
+-if hp bar reachs zero, it's game over, take medkit, it'll refill you for one time.
+
+Enjoy, i hope you like it. :)
+
+Game Inspiration: https://www.youtube.com/watch?v=-GYySwKia-Y
